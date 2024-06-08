@@ -1,5 +1,6 @@
 ### Link para modelo:
 https://universe.roboflow.com/seacare/seacare/model/2
+(Código fonte do modelo está referenciado na página acima, no tópico "Code Snippets")
 
 # SeaCare: Modelo de Detecção de Lixo Marinho
 Este repositório referencia o modelo de detecção de lixo marinho treinado no Roboflow.
